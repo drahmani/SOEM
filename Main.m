@@ -1,5 +1,4 @@
-addpath('~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Documents-Donya-Mac/SOEM/SSA/jd_koh')
-addpath('~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Documents-Donya-Mac/SOEM/SSA/jd_koh/JnS-1.2')
+addpath('~/JnS-1.2')
 
 clear all
 % load data/Y and data/name
